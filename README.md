@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Varun Kumar</h1>
-<h3 align="center">Sr DevOps Engineer | Cloud | SRE | 7+ Years Experience</h3>
+<h3 align="center">Senior DevOps Engineer (Manager Grade - Leading DevOps Team) | Cloud | SRE | 7+ Years Experience</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link">LinkedIn</a> •
-  <a href="mailto:your@email.com">Email</a>
+  <a href="https://linkedin.com/in/devopseng">LinkedIn</a> •
+  <a href="varun.ignitedminds@gmail.com">Email</a>
 </p>
 
 ---
